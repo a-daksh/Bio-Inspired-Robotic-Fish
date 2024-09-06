@@ -1,6 +1,5 @@
 #Bio-Inspired Robotic Fish
 
-![image](https://github.com/a-daksh/Robotic-Fish/assets/92381996/24fdbba4-cefb-4697-bfa0-92c79f46ba72)
 ## Project Overview
 This project involves the design and development of a bio-inspired robotic fish, capable of mimicking natural fish movements for propulsion and buoyancy control. The fish tail uses a tendon-based mechanism to create a realistic left-right swimming motion, while a motor-controlled syringe adjusts buoyancy, allowing the fish to sink and rise in water.
 
@@ -14,3 +13,5 @@ This project involves the design and development of a bio-inspired robotic fish,
 - **Servo Motor System**: Provides actuation for the tendon mechanism, enabling left and right tail flexing.
 - **Motor-Controlled Syringe**: Adjusts buoyancy by injecting or removing water from an internal reservoir.
  
+
+![image](https://github.com/a-daksh/Robotic-Fish/assets/92381996/24fdbba4-cefb-4697-bfa0-92c79f46ba72)
